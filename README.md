@@ -16,7 +16,13 @@ Interactive dashboard can be found [here](Olist.pbix)
 
 Summary of ETL and data cleaning steps can be found [here](ETL_and_data_cleaning_steps.pdf)
 
-Data cleaning file (done in python) can be found [here](Data Cleaning Pandas.ipynb)
+Data cleaning file (done in python) can be found [here](Data_Cleaning_Pandas.ipynb)
+
+Summary of Metric/KPI validation in sql can be found [here](Data_metric_validation.pdf)
+
+SQL queries can be accessed [here](Sql_validation.sql)
+
+Report pdf can be found [here](Olist_report.pdf)
 
 
 ## Data Structure
@@ -26,6 +32,19 @@ Olist's database structue consists of nine tables namely geolocation, customers,
 
 
 ![Screenshot 2025-05-26 164200](https://github.com/user-attachments/assets/9f75e785-07b6-4a46-93bc-8ba83006730e)
+
+Prior to analyzing the data, cleaning was done in python. Python file can be found [here](Data_cleaning_pandas.pdf)
+
+## Executive Summary
+
+**Overview of Findings**
+
+Total Revenue recordes is R$ 15.42 Million, total orders placed stand at 99,441 and Average Order Value is R$160. Sales and order saw a sharp rise in revenue from October 2016 to November 2017. Ater peaking in November, 2017 there was a sharp drop in December and since then the sales and orders have been stagnant. The peak in November can be attributed to Black Friday. It was surprising not to oberve similar peaks in Carnival and Christmas season. Sao Paulo, Rio De Janeiro, and Minais Gerais contribute 62.54% of the total revenue. Bed_bath_table sells the most products followed by health_beauty and sports_leisure.
+
+Below is the overview page from Power BI desktop and more examples are included throughout the report. The entire dashboard can be downloaded from [here](Olist.pbix)
+
+
+![Screenshot 2025-05-26 185949](https://github.com/user-attachments/assets/e2c39b4a-f05c-4ffa-9615-558a2fde0d0c)
 
 
 
