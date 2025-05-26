@@ -14,6 +14,11 @@ Insihgts and recommendations are provided on the following key areas:
 
 Interactive dashboard can be found [here](Olist.pbix)
 
+Summary of ETL and data cleaning steps can be found [here](ETL_and_data_cleaning_steps.pdf)
+
+Data cleaning file (done in python) can be found [here](Data Cleaning Pandas.ipynb)
+
+
 ## Data Structure
 
 Olist's database structue consists of nine tables namely geolocation, customers, sellers, products, orders, order_items, order_reviews & order_payments & product_category_name. The state table was added to ensure full names of state are availble and date table was added to enable flexibility of time based analysis and creating hierarchical relationships at different levels of granularity (such as Day, Week, Month, Year etc.)
