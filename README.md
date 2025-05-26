@@ -14,5 +14,14 @@ Insihgts and recommendations are provided on the following key areas:
 
 Interactive dashboard can be found [here](Olist.pbix)
 
+## Data Structure & Initial Checks
+
+Olist's database structue consists of nine tables namely geolocation, customers, sellers, products, orders, order_items, order_reviews & order_payments & product_category_name. The state table was added to ensure full names of state are availble and date table was added to enable flexibility of time based analysis and creating hierarchical relationships at different levels of granularity (such as Day, Week, Month, Year etc.)
+
+
+
+![Screenshot 2025-05-26 164200](https://github.com/user-attachments/assets/9f75e785-07b6-4a46-93bc-8ba83006730e)
+
+
 
 
