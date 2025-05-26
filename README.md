@@ -7,10 +7,10 @@ The company has significant amount of data on it's sales that has previously bee
 
 Insihgts and recommendations are provided on the following key areas:
 
-Sales Trend Analysis: Evaluation of historical sales pattern focusing on revenue, order volumn and average order value
-Product level performance: An anlysis of Olist's various product categories and understanding their impact on sales
-Seller level performance: Understanding seller ratings and how they impact seller's performance
-Loyalty program: An assessment of customer's retention rate and how it impacts sales
+- Sales Trend Analysis: Evaluation of historical sales pattern focusing on revenue, order volumn and average order value
+- Product level performance: An anlysis of Olist's various product categories and understanding their impact on sales
+- Seller level performance: Understanding seller ratings and how they impact seller's performance
+- Loyalty program: An assessment of customer's retention rate and how it impacts sales
 
 
 
