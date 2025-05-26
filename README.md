@@ -12,5 +12,7 @@ Insihgts and recommendations are provided on the following key areas:
 - Seller level performance: Understanding seller ratings and how they impact seller's performance
 - Loyalty program: An assessment of customer's retention rate and how it impacts sales
 
+Interactive dashboard can be found [here](Olist.pbix)
+
 
 
