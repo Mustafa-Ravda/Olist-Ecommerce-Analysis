@@ -7,7 +7,7 @@ The company has significant amount of data on it's sales that has previously bee
 
 Insihgts and recommendations are provided on the following key areas:
 
-- Sales Trend Analysis: Evaluation of historical sales pattern focusing on revenue, order volumn and average order value
+- Revenue Trend Analysis: Evaluation of historical sales pattern focusing on revenue, order volume and average order value
 - Product level performance: An anlysis of Olist's various product categories and understanding their impact on sales
 - Seller level performance: Understanding seller ratings and how they impact seller's performance
 - Loyalty program: An assessment of customer's retention rate and how it impacts sales
@@ -48,9 +48,17 @@ Below is the overview page from Power BI desktop and more examples are included 
 
 **Revenue and Orders Trend Analysis**
 
-Revenue and orders show a consistent increase in revenue and orders from October 2016 to peaking in November 2017, the revenue and orders have remained stagnant since. A sharp rise in revenue was observed in November 2017. Furhter analyzing the daily revenue, we uncover that 24th November, 2017 recorded the highest daily revenue ever of R$175,250 which is more than 3 times the second highest daily revenue. Unfortunately, we don't ahve the data available for November 2016 and November 2018 which would have enabled us to gain deeper insights on the effect of Black Friday sales. However, one thing is certain from our Black Friday peak is that festivites and sale drive high revenue. Hence, it was surprising when we didn't observe similar peaks in Carnival and Christmas 
+Revenue and orders show a consistent increase in revenue and orders from October 2016 to peaking in November 2017, the revenue and orders have remained stagnant since. A sharp rise in revenue was observed in November 2017. Furhter analyzing the daily revenue, we uncover that 24th November, 2017 recorded the highest daily revenue ever of R$175,250 which is more than 3 times the second highest daily revenue. Unfortunately, we don't ahve the data available for November 2016 and November 2018 which would have enabled us to gain deeper insights on the effect of Black Friday sales. However, one thing is certain from our Black Friday peak is that festivites and sale drive high revenue. Hence, it was surprising when we didn't observe similar peaks in Carnival and Christmas. Average order Value remains largely constant with some outliers from January 2017 to April 2017
 
 ![Screenshot 2025-05-26 195320](https://github.com/user-attachments/assets/acea2d59-1657-417c-8c5f-679c8e1e6195)
+
+![Screenshot 2025-05-26 200844](https://github.com/user-attachments/assets/c2e3232e-66f7-4ca4-b0e7-1e1731670606)
+
+**Product Level Performance**
+
+
+
+
 
 
 
