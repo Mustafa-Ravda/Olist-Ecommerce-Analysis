@@ -48,7 +48,11 @@ Below is the overview page from Power BI desktop and more examples are included 
 
 **Revenue and Orders Trend Analysis**
 
-Revenue and orders show a consistent from October 2016 to peaking in November 2017, however, the revenue and orders have remained stagnant since. A sharp rise in revenue was observed in November 2017. Furhter analyzing the daily revenue, we uncover that 24th November, 2017 recorded the highest daily revenue ever of R$175,250 which is more than 3 times the second highest daily revenue. We discovered that Balck Friday was on 24th November. Unfortunately, we don't ahve the data available for November 2016 and November 2018 which would have enabled us to gain deeper insights on the effect of Black Friday sales. However, one thing is certain from our Black Friday peak is that the festivities and holiday sale drive high revenue. Hence, it was surprising when we didn't observe similar peaks in Carnival and Christmas. Average order Value remains largely constant with some outliers from January 2017 to April 2017
+Revenue and orders show a consistent from October 2016 to peaking in November 2017, however, the revenue and orders have remained stagnant since. 
+
+A sharp rise in revenue was observed in November 2017. Furhter analyzing the daily revenue, we uncover that 24th November, 2017 recorded the highest daily revenue ever of R$175,250 which is more than 3 times the second highest daily revenue. We discovered that Balck Friday was on 24th November. Unfortunately, we don't ahve the data available for November 2016 and November 2018 which would have enabled us to gain deeper insights on the effect of Black Friday sales. 
+
+However, one thing is certain from our Black Friday peak is that the festivities and holiday sale drive high revenue. Hence, it was surprising when we didn't observe similar peaks in Carnival and Christmas. Average order Value remains largely constant with some outliers from January 2017 to April 2017
 
 ![Screenshot 2025-05-26 195320](https://github.com/user-attachments/assets/acea2d59-1657-417c-8c5f-679c8e1e6195)
 
@@ -57,6 +61,7 @@ Revenue and orders show a consistent from October 2016 to peaking in November 20
 
 
 **Product Level Performance**
+
 Furniture & decor generated the maximum revenue in 2016, bed, bath & table in 2017, and health & beauty in 2018. However, health and beauty has been a consistent top perfromer by generating second highest revenue in 2016 & 2017, and highest revenue in 2018. Sports & leisrue has also consitently featured in top 4. This is a very valuable insight for our marketing team as they can divert there efforts towards these product categoies.
 
 ![20250527_092853](https://github.com/user-attachments/assets/46f7a2cc-b554-45fc-9cde-788b983baa54)
