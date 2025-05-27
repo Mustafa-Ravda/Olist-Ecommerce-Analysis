@@ -58,6 +58,11 @@ Revenue and orders show a consistent increase in revenue and orders from October
 
 
 
+![Screenshot 2025-05-27 075622](https://github.com/user-attachments/assets/92876e84-184b-464d-837f-de99faabefbd)
+
+![Screenshot 2025-05-27 075651](https://github.com/user-attachments/assets/6d44dc66-f3c0-4755-bfd6-fc4949d2f31e)
+
+![Screenshot 2025-05-27 075733](https://github.com/user-attachments/assets/f5c911f8-197e-4b1c-a201-5e110431d7ed)
 
 
 
