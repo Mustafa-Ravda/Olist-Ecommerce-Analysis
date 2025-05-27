@@ -48,14 +48,52 @@ Below is the overview page from Power BI desktop and more examples are included 
 
 **Revenue and Orders Trend Analysis**
 
-Revenue and orders show a consistent increase in revenue and orders from October 2016 to peaking in November 2017, the revenue and orders have remained stagnant since. A sharp rise in revenue was observed in November 2017. Furhter analyzing the daily revenue, we uncover that 24th November, 2017 recorded the highest daily revenue ever of R$175,250 which is more than 3 times the second highest daily revenue. Unfortunately, we don't ahve the data available for November 2016 and November 2018 which would have enabled us to gain deeper insights on the effect of Black Friday sales. However, one thing is certain from our Black Friday peak is that festivites and sale drive high revenue. Hence, it was surprising when we didn't observe similar peaks in Carnival and Christmas. Average order Value remains largely constant with some outliers from January 2017 to April 2017
+Revenue and orders show a consistent from October 2016 to peaking in November 2017, however, the revenue and orders have remained stagnant since. A sharp rise in revenue was observed in November 2017. Furhter analyzing the daily revenue, we uncover that 24th November, 2017 recorded the highest daily revenue ever of R$175,250 which is more than 3 times the second highest daily revenue. We discovered that Balck Friday was on 24th November. Unfortunately, we don't ahve the data available for November 2016 and November 2018 which would have enabled us to gain deeper insights on the effect of Black Friday sales. However, one thing is certain from our Black Friday peak is that the festivities and holiday sale drive high revenue. Hence, it was surprising when we didn't observe similar peaks in Carnival and Christmas. Average order Value remains largely constant with some outliers from January 2017 to April 2017
 
 ![Screenshot 2025-05-26 195320](https://github.com/user-attachments/assets/acea2d59-1657-417c-8c5f-679c8e1e6195)
 
-![Screenshot 2025-05-26 200844](https://github.com/user-attachments/assets/c2e3232e-66f7-4ca4-b0e7-1e1731670606)
+![Screenshot 2025-05-27 105417](https://github.com/user-attachments/assets/d80741a8-a5f3-4861-81e7-86042a2f5479)
+
+
 
 **Product Level Performance**
+Furniture & decor generated the maximum revenue in 2016, bed, bath & table in 2017, and health & beauty in 2018. However, health and beauty has been a consistent top perfromer by generating second highest revenue in 2016 & 2017, and highest revenue in 2018. Sports & leisrue has also consitently featured in top 4. This is a very valuable insight for our marketing team as they can divert there efforts towards these product categoies.
+
 ![20250527_092853](https://github.com/user-attachments/assets/46f7a2cc-b554-45fc-9cde-788b983baa54)
+
+**Seller Level Performance**
+
+ The visual shows that Sellers with high ratings tend to have higher sales outcome than those with lower ratings, with the highest performing seller having an average rating of 4.12.
+
+![Screenshot 2025-05-27 095412](https://github.com/user-attachments/assets/33aa5c57-a4ee-4bb0-9703-479c2ccf33d4)
+
+**Customer Retention Program**
+
+Customer retention rate is very low at 2.82%. Revenue generated from repeat purchases stands at 5.1% of the total revenue
+
+![Screenshot 2025-05-27 105109](https://github.com/user-attachments/assets/229136a0-df4c-4aad-882a-7b513d15bbcd)
+
+
+## Recommendations
+
+Revenue-by-day chart shows a huge spike on Black Friday 2017, but no similar lift over Christmas or Halloween. Running a promotion during holiday and festivities season like Christmas, Halloween and Carnival could boost revenue.
+
+Customer retention rate is very low at 2.82%. Without a strong retention engine, you’re perpetually “replacing” lost customers instead of building lifetime value.
+Introduce a "Second Buy" coupon (eg 10% off on next purchase valid for 30 days)
+
+Most of the revenue, 62.54% to be precise comes from just 3 states. Marketing and logistics investments in other states could unlock new growth.
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
