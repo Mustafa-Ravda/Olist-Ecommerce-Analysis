@@ -43,22 +43,20 @@ Total Revenue recordes is R$ 15.42 Million, total orders placed stand at 99,441 
 
 Below is the overview page from Power BI desktop and more examples are included throughout the report. The entire dashboard can be downloaded from [here](Olist_report.pbix)
 
+![Screenshot 2025-06-25 142218](https://github.com/user-attachments/assets/881198e6-f91e-415f-9d4c-1c8e27482f87)
 
-![Screenshot 2025-05-26 185949](https://github.com/user-attachments/assets/e2c39b4a-f05c-4ffa-9615-558a2fde0d0c)
+![Screenshot 2025-06-25 142326](https://github.com/user-attachments/assets/c7e9dc5a-2435-474e-a3ac-827abd07001b)
+
 
 **Revenue and Orders Trend Analysis**
 
-Revenue and orders show a consistent from October 2016 to peaking in November 2017, however, the revenue and orders have remained stagnant since. 
+Revenue and orders show a consistent rise from October 2016 to peaking in November 2017, however, the revenue and orders have remained stagnant since. 
 
 A sharp rise in revenue was observed in November 2017. Furhter analyzing the daily revenue, we uncover that 24th November, 2017 recorded the highest daily revenue ever of R$175,250 which is more than 3 times the second highest daily revenue. We discovered that Balck Friday was on 24th November. Unfortunately, we don't ahve the data available for November 2016 and November 2018 which would have enabled us to gain deeper insights on the effect of Black Friday sales. 
 
 However, one thing is certain from our Black Friday peak is that the festivities and holiday sale drive high revenue. Hence, it was surprising when we didn't observe similar peaks in Carnival and Christmas. Average order Value remains largely constant with some outliers from January 2017 to April 2017
 
 ![Screenshot 2025-05-26 195320](https://github.com/user-attachments/assets/acea2d59-1657-417c-8c5f-679c8e1e6195)
-
-![Screenshot 2025-05-27 105417](https://github.com/user-attachments/assets/d80741a8-a5f3-4861-81e7-86042a2f5479)
-
-
 
 **Product Level Performance**
 
