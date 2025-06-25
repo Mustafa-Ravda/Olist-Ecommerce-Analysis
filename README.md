@@ -12,7 +12,7 @@ Insihgts and recommendations are provided on the following key areas:
 - Seller level performance: Understanding seller ratings and how they impact seller's performance
 - Loyalty program: An assessment of customer's retention rate and how it impacts sales
 
-Interactive dashboard can be found [here](Olist_report.pbix)
+Interactive dashboard can be found [here](Olist.pbix)
 
 Summary of ETL and data cleaning steps can be found [here](ETL_and_data_cleaning_steps.pdf)
 
@@ -41,7 +41,7 @@ Prior to analyzing the data, cleaning was done in python. Python file can be fou
 
 Total Revenue recordes is R$ 15.42 Million, total orders placed stand at 99,441 and Average Order Value is R$160. Sales and order saw a near consistent rise in revenue from October 2016 to November 2017. Ater peaking in November, 2017 there was a sharp drop in December and since then the sales and orders have been stagnant. The peak in November can be attributed to Black Friday. It was surprising not to oberve similar peaks in Carnival and Christmas season. Sao Paulo, Rio De Janeiro, and Minais Gerais contribute 62.54% of the total revenue. Bed_bath_table sells the most products followed by health_beauty and sports_leisure.
 
-Below is the overview page from Power BI desktop and more examples are included throughout the report. The entire dashboard can be downloaded from [here](Olist_report.pbix)
+Below is the overview page from Power BI desktop and more examples are included throughout the report. The entire dashboard can be downloaded from [here](Olist.pbix)
 
 ![Screenshot 2025-06-25 142218](https://github.com/user-attachments/assets/881198e6-f91e-415f-9d4c-1c8e27482f87)
 
