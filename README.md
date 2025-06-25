@@ -22,7 +22,7 @@ Summary of Metric/KPI validation in sql can be found [here](Data_metric_validati
 
 SQL queries can be accessed [here](Sql_validation.sql)
 
-Report pdf can be found [here](Olist_report.pdf)
+Report pdf can be found [here](Olist.pdf)
 
 
 ## Data Structure
